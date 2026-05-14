@@ -225,6 +225,22 @@ MIT
 
 ## Credits
 
-- [MCP Tools for Elementor](https://github.com/msrbuilds/elementor-mcp) by MSR Builds — the WordPress plugin that exposes Elementor as MCP tools
-- [Claude Code](https://docs.anthropic.com/en/docs/claude-code) by Anthropic — the AI coding assistant that uses this skill
-- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) — the open protocol connecting AI to tools
+Built and maintained by the team behind [Mekko Digital](https://mekkodigital.com).
+
+**Tayyab Ul Islam**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tayyabulislam16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabulislam16)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/tayyabulislam16)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/tayyabulislam16)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/tayyabulislam16)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/923060282032)
+
+**Hamza Zafar**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thehamzazafar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thehamzazafar)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/thehamzazafar)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/thehamzazafar)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e0b93aab3dc4cc0d)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/923148023751)
