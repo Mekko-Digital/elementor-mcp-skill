@@ -227,6 +227,8 @@ MIT
 
 Built and maintained by the team behind [Mekko Digital](https://mekkodigital.com).
 
+Check out our other free tools at **[Mekko Tools](https://mekko.tools/flowconvert)**.
+
 **Tayyab Ul Islam**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tayyabulislam16)
