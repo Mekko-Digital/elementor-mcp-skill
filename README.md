@@ -227,7 +227,7 @@ MIT
 
 Built and maintained by the team behind [Mekko Digital](https://mekkodigital.com).
 
-Check out our other free tools at **[Mekko Tools](https://mekko.tools/flowconvert)**.
+Check out our other free tools at **[Mekko Tools](https://mekko.tools/)**.
 
 **Tayyab Ul Islam**
 
